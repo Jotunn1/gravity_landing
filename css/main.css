@@ -13,6 +13,12 @@ h1,h2,h3,h4,h5,h6{
 	font-style: normal;
 	font-weight: 700;
 	color: #151515;
+	font-size: 38px;
+}
+ul,li{
+	display: block;
+	padding: 0;
+	margin: 0;
 }
 .vh_dependent{
 	height: 40vh;
@@ -100,6 +106,7 @@ border: none;
 }
 .about_title{
 	font-size: 38px;
+	margin-bottom: 30px;
 }
 .about_text{
 
@@ -114,4 +121,24 @@ border: none;
 }
 .about_dop{
 	margin-bottom: 0px;
+}
+.services{
+	margin-top: 142px;
+}
+.section_title_label{
+	text-transform: uppercase;
+	font-size: 14px;
+	letter-spacing: 0.25em;
+	color: #ADADAD;
+	margin-bottom: 40px;
+}
+.serv-list_left{
+	margin-left: 37px;
+}
+.serv-list{
+	color:#8D8D8D;
+	margin-top: 67px;
+}
+.serv-list_item{
+	margin-bottom: 20px;
 }
