@@ -299,3 +299,23 @@ li {
 .clients{
   padding-top: 278px;
 }
+.clients_row{
+  margin-top: 127px;
+  display: flex;
+  justify-content: space-between;
+}
+.section_title_label_2{
+  color: #000;
+  letter-spacing: 0.3em;
+  text-transform: uppercase;
+  font-weight: 500;
+}
+.footer{
+  height: 240px;
+  background: #515151;
+  margin-top: 136px;
+}
+.footer_logo{
+  margin-top: 109px;
+
+}
